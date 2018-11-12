@@ -1,0 +1,14 @@
+C:\Users\rw132\Desktop\SoloLearn\6.More On Classes\3.Static Classes\3.Static Classes\bin\Debug\3.Static Classes.exe.config
+C:\Users\rw132\Desktop\SoloLearn\6.More On Classes\3.Static Classes\3.Static Classes\bin\Debug\3.Static Classes.exe
+C:\Users\rw132\Desktop\SoloLearn\6.More On Classes\3.Static Classes\3.Static Classes\bin\Debug\3.Static Classes.pdb
+C:\Users\rw132\Desktop\SoloLearn\6.More On Classes\3.Static Classes\3.Static Classes\obj\Debug\3.Static Classes.csprojAssemblyReference.cache
+C:\Users\rw132\Desktop\SoloLearn\6.More On Classes\3.Static Classes\3.Static Classes\obj\Debug\3.Static Classes.csproj.CoreCompileInputs.cache
+C:\Users\rw132\Desktop\SoloLearn\6.More On Classes\3.Static Classes\3.Static Classes\obj\Debug\3.Static Classes.exe
+C:\Users\rw132\Desktop\SoloLearn\6.More On Classes\3.Static Classes\3.Static Classes\obj\Debug\3.Static Classes.pdb
+C:\Users\rw132\OneDrive\3.Static Classes\3.Static Classes\bin\Debug\3.Static Classes.exe.config
+C:\Users\rw132\OneDrive\3.Static Classes\3.Static Classes\bin\Debug\3.Static Classes.exe
+C:\Users\rw132\OneDrive\3.Static Classes\3.Static Classes\bin\Debug\3.Static Classes.pdb
+C:\Users\rw132\OneDrive\3.Static Classes\3.Static Classes\obj\Debug\3.Static Classes.csprojAssemblyReference.cache
+C:\Users\rw132\OneDrive\3.Static Classes\3.Static Classes\obj\Debug\3.Static Classes.csproj.CoreCompileInputs.cache
+C:\Users\rw132\OneDrive\3.Static Classes\3.Static Classes\obj\Debug\3.Static Classes.exe
+C:\Users\rw132\OneDrive\3.Static Classes\3.Static Classes\obj\Debug\3.Static Classes.pdb

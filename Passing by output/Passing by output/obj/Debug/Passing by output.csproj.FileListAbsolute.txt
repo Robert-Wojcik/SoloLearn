@@ -1,0 +1,7 @@
+C:\Users\rw132\source\repos\Passing by output\Passing by output\bin\Debug\Passing by output.exe.config
+C:\Users\rw132\source\repos\Passing by output\Passing by output\bin\Debug\Passing by output.exe
+C:\Users\rw132\source\repos\Passing by output\Passing by output\bin\Debug\Passing by output.pdb
+C:\Users\rw132\source\repos\Passing by output\Passing by output\obj\Debug\Passing by output.csprojAssemblyReference.cache
+C:\Users\rw132\source\repos\Passing by output\Passing by output\obj\Debug\Passing by output.csproj.CoreCompileInputs.cache
+C:\Users\rw132\source\repos\Passing by output\Passing by output\obj\Debug\Passing by output.exe
+C:\Users\rw132\source\repos\Passing by output\Passing by output\obj\Debug\Passing by output.pdb
